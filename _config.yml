@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "page:num"
 
 # presonal config
-title: Jack's Blog
+title: Jack's Blog sssssssssss
 description: Jack's Blog, powered by Jekyll...
 feed: http://www.winfirm.cn/atom.xml
 
